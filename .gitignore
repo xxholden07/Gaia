@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pyo
+gaia_dr3_data/
